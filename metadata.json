@@ -1,0 +1,8 @@
+{
+  "name": "CC Hub",
+  "description": "A modern, blue and black-themed landing page for CC Hub featuring invite rewards, verification, and giveaways for games like Blox Fruits and Adopt Me.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
